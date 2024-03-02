@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FocusForge](https://focus-forge.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **pawar.arnav1333@gmail.com**
 
