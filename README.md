@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Pawar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FYoxmo%2FYoxmo&psig=AOvVaw2Ub4mjo6cBAvZ1NtQl2vjz&ust=1748264567489000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU7pbXvo0DFQAAAAAdAAAAABAt">
+<img align="right" alt="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLlama-Cheese%2FLlama-Cheese&psig=AOvVaw2Ub4mjo6cBAvZ1NtQl2vjz&ust=1748264567489000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU7pbXvo0DFQAAAAAdAAAAABA2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1333&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1333" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arnav_pawar" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_pawar?logo=twitter&style=for-the-badge" alt="arnav_pawar" /></a> </p>
