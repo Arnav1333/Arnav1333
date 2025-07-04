@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arnav_pawar" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_pawar?logo=twitter&style=for-the-badge" alt="arnav_pawar" /></a> </p>
 
-- 🔭 I’m currently working on Monexo
+- 🔭 I’m currently working on FreeQuill
 
 - 🌱 I’m currently learning **Django**
 
