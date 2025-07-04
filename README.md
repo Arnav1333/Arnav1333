@@ -20,7 +20,7 @@
 
 Here are some projects I'm working on or have completed:
 
-- 🔗 [Freequil 🪶](https://blog-web-eez4.onrender.com/)
+- 🔗 [Freequill 🪶](https://blog-web-eez4.onrender.com/)
 - 🔗 [CineSearch 🎬](https://cinesearch-made-by-arnav.netlify.app/) 
 - 🔗 [IMDB Fan Favs 🎬](https://github.com/Arnav1333/imdb_web_scraping) 
 
