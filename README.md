@@ -1,22 +1,49 @@
-<h1 align="center">Hi 👋, I'm Arnav Pawar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLlama-Cheese%2FLlama-Cheese&psig=AOvVaw2Ub4mjo6cBAvZ1NtQl2vjz&ust=1748264567489000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU7pbXvo0DFQAAAAAdAAAAABA2">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1333&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1333" /> </p>
+# 👋 Hi, I'm Arnav Pawar!
 
-<p align="left"> <a href="https://twitter.com/arnav_pawar" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_pawar?logo=twitter&style=for-the-badge" alt="arnav_pawar" /></a> </p>
+💻 I am a **Python Developer** on a journey to build impactful web projects  
+🚀 Currently learning **Django, REST APIs, and React.js**  
+🌱 Exploring **Data Structures & Algorithms** and building cool things with code  
+⚡ Love programming , football, movies and reading books 
 
-- 🔭 I’m currently working on FreeQuill
+---
 
-- 🌱 I’m currently learning **Django**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **pawar.arnav1333@gmail.com**
+- 💻 Languages: `Python`, `JavaScript`, `SQL`
+- 🌐 Web: `Django`, `Django REST Framework`, `HTML`, `CSS`, `Tailwind CSS`, `React.js`
+- 🧠 Currently Learning: `FastAPI`, `PostgreSQL`
+- 🗃️ Tools: `Git`, `GitHub`, `VS Code`, `Render`, `Netlify`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arnav_pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnav_pawar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚧 Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav1333&show_icons=true&locale=en&layout=compact" alt="arnav1333" /></p>
+Here are some projects I'm working on or have completed:
+
+- 🔗 [Freequil 🪶](https://blog-web-eez4.onrender.com/)
+- 🔗 [CineSearch 🎬](https://cinesearch-made-by-arnav.netlify.app/) – Find movies with a beautiful UI, powered by an API
+- 🔗 [IMDB Fan Favs 🎬](https://github.com/Arnav1333/imdb_web_scraping) 
+
+---
+
+## 📈 GitHub Stats
+
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect
+
+- 🐦 Twitter: [@arnav_pawar](https://x.com/arnav_pawar)
+- 💼 LinkedIn: [Arnav Pawar](https://www.linkedin.com/in/arnav-pawar-805127229/)
+- 📧 Email: pawar.arnav1333@gmail.com
+
+
+---
+
+### 🧰 Fun Fact
+
+> I love building logic-heavy apps and tweeting cool stuff about Python, memory management, and web dev! 🧠💥  
+> Follow me for byte-sized dev wisdom! 🛠️🐍
+
