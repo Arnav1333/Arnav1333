@@ -28,8 +28,8 @@ Here are some projects I'm working on or have completed:
 
 ## 📈 GitHub Stats
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav1333&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav1333&layout=compact&theme=radical)
 
 ---
 
