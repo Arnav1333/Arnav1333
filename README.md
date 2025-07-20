@@ -2,7 +2,7 @@
 
 💻 I am a **Python Developer** on a journey to build impactful web projects  
 🚀 Currently learning **Django, REST APIs, and React.js**  
-🌱 Exploring **Data Structures & Algorithms** and building cool things with code  
+🌱 Exploring **JavaScript** and building cool things with code  
 ⚡ Love programming , football, movies and reading books 
 
 ---
@@ -22,7 +22,7 @@ Here are some projects I'm working on or have completed:
 
 - 🔗 [Freequill 🪶](https://blog-web-eez4.onrender.com/)
 - 🔗 [CineSearch 🎬](https://cinesearch-made-by-arnav.netlify.app/) 
-- 🔗 [IMDB Fan Favs 🎬](https://github.com/Arnav1333/imdb_web_scraping) 
+- 🔗 [ColorSpeak 🎨 ](https://colorspeak.xyz/) 
 
 ---
 
