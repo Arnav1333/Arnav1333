@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Arnav Pawar!
 
 💻 I am a **Python Developer** on a journey to build impactful web projects  
+🔧 Building QR zen , a QR generator with Python and Django
 🚀 Currently learning **Django, REST APIs, and React.js**  
 🌱 Exploring **JavaScript** and building cool things with code  
 ⚡ Love programming , football, movies and reading books 
